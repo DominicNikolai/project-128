@@ -3,7 +3,7 @@ const $hero = $('.hero');
 const TOTAL_FRAMES = 24;
 
 function generateSrc(nFrame) {
-  return `./assets/frames/moto-${nFrame}.jpg`;
+  return `./assets/frames/camera-${nFrame}.jpg`;
 }
 
 function updateImage(nFrame) {
