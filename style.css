@@ -31,7 +31,7 @@ body {
 /***************************SCROLL/***************************/
 
 body {
-  --sb-track-color: #fff;
+  --sb-track-color: #000;
   --sb-thumb-color: #a41f21;
   --sb-size: 9px;
 }
